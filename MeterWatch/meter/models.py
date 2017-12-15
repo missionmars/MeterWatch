@@ -24,7 +24,7 @@ class MeterWater(models.Model):
     meter_amount = models.IntegerField(db_column='meter_amount', default=0)
 
     class Meta:
-    managed = True
+        managed = True
 
     def __str__(self):
         return self.meter_amount
