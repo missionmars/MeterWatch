@@ -4,4 +4,6 @@ The water meter app is for monitoring water & electricity. All inputs will be ma
 
 #Install
 
-pip requirments.txt within ENV
+1. pip requirments.txt within ENV
+2. Migrate
+3. Setup super user
